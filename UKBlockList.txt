@@ -1,0 +1,10 @@
+||ned.itv.com^
+||tom.itv.com^
+||toots-a.akamaihd.net^
+||cdn.http.anno.channel4.com^
+||popup.taboola.com^
+||austin.logs.roku.com^
+||bill.itv.com^
+||cws-us-east.conviva.com^
+||time-ios.apple.com^
+||cws-usw1.conviva.com^

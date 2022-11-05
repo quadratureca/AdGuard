@@ -3,3 +3,5 @@
 ||toots-a.akamaihd.net^
 ||cdn.http.anno.channel4.com^
 ||bill.itv.com^
+||cdn.ss.anno.channel4.com^
+||c4ads.2cnt.net^

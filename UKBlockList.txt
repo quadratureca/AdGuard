@@ -5,3 +5,4 @@
 ||bill.itv.com^
 ||cdn.ss.anno.channel4.com^
 ||c4ads.2cnt.net^
+||video-preview.9now.com.au^$important

@@ -1,9 +1,9 @@
 ||ned.itv.com^
 ||tom.itv.com^
+||bill.itv.com^
 ||ar.prd.content.itv.com^
 ||toots-a.akamaihd.net^
 ||cdn.http.anno.channel4.com^
-||bill.itv.com^
 ||cdn.ss.anno.channel4.com^
 ||c4ads.2cnt.net^
 ||video-preview.9now.com.au^$important
